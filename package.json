@@ -1,7 +1,7 @@
 {
-  "name": "geebox-pc",
+  "name": "vue-geepc",
   "version": "1.0.0",
-  "description": "geebox pc background",
+  "description": "vue-geepc background",
   "author": "Evan <evansong@careerintlinc.com>",
   "private": true,
   "scripts": {
