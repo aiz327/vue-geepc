@@ -1,6 +1,6 @@
-# geebox-pc
+# vue-geepc-pc
 
-> geebox pc background
+> vue-geepc pc background
 
 ## Build Setup
 
